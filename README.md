@@ -2,15 +2,15 @@
 Trabalho desenvolvido para demostrar conhecimentos adquiridos na primeria e segunda etapas do bloco de interface em Android
 
 <p align="center">
-  <img width="600" src="image/app01.jpg">
+  <img width="200" src="image/app01.jpg">
 </p>
 
 <p align="center">
-  <img width="600" src="image/app02.jpg">
+  <img width="200" src="image/app02.jpg">
 </p>
 
 <p align="center">
-  <img width="600" src="image/calculo_viagem.gif">
+  <img width="200" src="image/calculo_viagem.gif">
 </p>
 
 ## Descrição
